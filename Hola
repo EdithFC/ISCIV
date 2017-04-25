@@ -1,0 +1,4 @@
+nom=raw_input("Dame tu nombre: ")
+edad=int(input("Dame tu edad: "))
+car=raw_input("Dame tu carrera: ")
+print "Hola!!, soy ",nom," tengo ",edad," años ," y estoy en ",car
